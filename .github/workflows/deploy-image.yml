@@ -20,4 +20,4 @@ jobs:
         with:
           context: demo-tuto/
           push: true
-          tags: emmannweb/react-demo:latest
+          tags: emmann/react-demo:latest
